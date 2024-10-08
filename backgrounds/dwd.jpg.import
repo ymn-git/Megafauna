@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y3cykak8sfm7"
-path="res://.godot/imported/dwd.jpg-93c0f9b008c90910084d4169845d6b0b.ctex"
+path="res://.godot/imported/dwd.jpg-da0b6c936290aca17ff73c2cfc1e529e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://juego/backgrounds/dwd.jpg"
-dest_files=["res://.godot/imported/dwd.jpg-93c0f9b008c90910084d4169845d6b0b.ctex"]
+source_file="res://backgrounds/dwd.jpg"
+dest_files=["res://.godot/imported/dwd.jpg-da0b6c936290aca17ff73c2cfc1e529e.ctex"]
 
 [params]
 

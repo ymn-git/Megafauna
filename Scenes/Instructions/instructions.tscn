@@ -1,24 +1,24 @@
 [gd_scene load_steps=9 format=3 uid="uid://dmmfynulsg2ca"]
 
-[ext_resource type="Script" path="res://juego/Scenes/Instructions/instructions.gd" id="1_8mgi1"]
-[ext_resource type="Texture2D" uid="uid://c8jnpplaioy00" path="res://juego/backgrounds/cielo.jpg" id="2_jc7ul"]
-[ext_resource type="FontFile" uid="uid://bo1bnyn68uegd" path="res://juego/backgrounds/brackeys_platformer_assets/fonts/PixelOperator8-Bold.ttf" id="3_htvr6"]
-[ext_resource type="Texture2D" uid="uid://5fsm4cyb2v4s" path="res://juego/Scenes/Player/Designer__7_-removebg-preview.png" id="4_ky2y1"]
-[ext_resource type="Texture2D" uid="uid://i4q8ny6lp3jr" path="res://juego/Scenes/Instructions/teclado_imagen-removebg-preview.png" id="5_oxofd"]
-[ext_resource type="Texture2D" uid="uid://d370ako6bfqyl" path="res://juego/Scenes/Player/Designer__8_-removebg-preview.png" id="6_1oxt1"]
-[ext_resource type="Texture2D" uid="uid://bs4nnqex6mrjn" path="res://juego/Scenes/Player/Designer__9_-removebg-preview.png" id="7_7f8gq"]
+[ext_resource type="Script" path="res://scripts/instructions.gd" id="1_i3sky"]
+[ext_resource type="Texture2D" uid="uid://c8jnpplaioy00" path="res://backgrounds/cielo.jpg" id="2_7bvad"]
+[ext_resource type="FontFile" uid="uid://bo1bnyn68uegd" path="res://Scenes/brackeys_platformer_assets/fonts/PixelOperator8-Bold.ttf" id="3_55gcj"]
+[ext_resource type="Texture2D" uid="uid://i4q8ny6lp3jr" path="res://Scenes/Instructions/teclado_imagen-removebg-preview.png" id="4_ql0et"]
+[ext_resource type="Texture2D" uid="uid://5fsm4cyb2v4s" path="res://Scenes/Player/Designer__7_-removebg-preview.png" id="5_ysb6i"]
+[ext_resource type="Texture2D" uid="uid://d370ako6bfqyl" path="res://Scenes/Player/Designer__8_-removebg-preview.png" id="6_umlcs"]
+[ext_resource type="Texture2D" uid="uid://bs4nnqex6mrjn" path="res://Scenes/Player/Designer__9_-removebg-preview.png" id="7_on4lb"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_aqgj8"]
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("4_ky2y1")
+"texture": ExtResource("5_ysb6i")
 }, {
 "duration": 1.0,
-"texture": ExtResource("6_1oxt1")
+"texture": ExtResource("6_umlcs")
 }, {
 "duration": 1.0,
-"texture": ExtResource("7_7f8gq")
+"texture": ExtResource("7_on4lb")
 }],
 "loop": true,
 "name": &"corriendo",
@@ -26,7 +26,7 @@ animations = [{
 }]
 
 [node name="instructions" type="CanvasLayer"]
-script = ExtResource("1_8mgi1")
+script = ExtResource("1_i3sky")
 
 [node name="Container" type="Control" parent="."]
 layout_mode = 3
@@ -39,7 +39,7 @@ size_flags_vertical = 3
 [node name="bg" type="Sprite2D" parent="Container"]
 position = Vector2(541.75, 373.518)
 scale = Vector2(1.47007, 1.81393)
-texture = ExtResource("2_jc7ul")
+texture = ExtResource("2_7bvad")
 
 [node name="Label" type="Label" parent="."]
 texture_filter = 1
@@ -57,7 +57,7 @@ grow_vertical = 2
 size_flags_horizontal = 4
 size_flags_vertical = 0
 theme_override_colors/font_color = Color(0.788235, 0.027451, 0, 1)
-theme_override_fonts/font = ExtResource("3_htvr6")
+theme_override_fonts/font = ExtResource("3_55gcj")
 theme_override_font_sizes/font_size = 12
 text = "Instrucciones del juego:
 
@@ -91,14 +91,14 @@ size_flags_horizontal = 4
 size_flags_vertical = 6
 theme_override_colors/font_color = Color(0.827451, 0, 0, 1)
 theme_override_colors/font_outline_color = Color(0, 0, 0.898039, 1)
-theme_override_fonts/font = ExtResource("3_htvr6")
+theme_override_fonts/font = ExtResource("3_55gcj")
 theme_override_font_sizes/font_size = 24
 text = "COMENZAR"
 
 [node name="Teclado" type="Sprite2D" parent="."]
 position = Vector2(877, 310)
 scale = Vector2(0.15, 0.15)
-texture = ExtResource("5_oxofd")
+texture = ExtResource("4_ql0et")
 
 [node name="Jugador" type="AnimatedSprite2D" parent="."]
 position = Vector2(785, 558)

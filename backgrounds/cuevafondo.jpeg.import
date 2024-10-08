@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g5utj8iy86fp"
-path="res://.godot/imported/cuevafondo.jpeg-52f36922adaaef98da6e7d68fa3a8071.ctex"
+path="res://.godot/imported/cuevafondo.jpeg-8e03aa47824fdda49bdc4ae8ffb35490.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://juego/backgrounds/cuevafondo.jpeg"
-dest_files=["res://.godot/imported/cuevafondo.jpeg-52f36922adaaef98da6e7d68fa3a8071.ctex"]
+source_file="res://backgrounds/cuevafondo.jpeg"
+dest_files=["res://.godot/imported/cuevafondo.jpeg-8e03aa47824fdda49bdc4ae8ffb35490.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8jnpplaioy00"
-path="res://.godot/imported/cielo.jpg-620cec8b9571bc8ed663ec9608b41712.ctex"
+path="res://.godot/imported/cielo.jpg-2332a2f67c081f6f0c575377aaefb8ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://juego/backgrounds/cielo.jpg"
-dest_files=["res://.godot/imported/cielo.jpg-620cec8b9571bc8ed663ec9608b41712.ctex"]
+source_file="res://backgrounds/cielo.jpg"
+dest_files=["res://.godot/imported/cielo.jpg-2332a2f67c081f6f0c575377aaefb8ac.ctex"]
 
 [params]
 

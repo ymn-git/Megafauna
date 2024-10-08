@@ -1,9 +1,9 @@
 [gd_scene load_steps=7 format=3 uid="uid://cac0wsmrb3nwe"]
 
-[ext_resource type="Script" path="res://juego/scripts/tiburon.gd" id="1_c8q0d"]
-[ext_resource type="Texture2D" uid="uid://bc6jiailvx8k6" path="res://juego/Scenes/Enemies/shark/shark-removebg-preview (1).png" id="1_s6fl2"]
-[ext_resource type="Texture2D" uid="uid://b4opd8islnm3n" path="res://juego/Scenes/Enemies/shark/shark-removebg-preview (2).png" id="2_afkcj"]
-[ext_resource type="Texture2D" uid="uid://drcdosnsajk4j" path="res://juego/Scenes/Enemies/shark/shark-removebg-preview (3).png" id="3_dotiw"]
+[ext_resource type="Script" path="res://scripts/tiburon.gd" id="1_c8q0d"]
+[ext_resource type="Texture2D" uid="uid://bc6jiailvx8k6" path="res://Scenes/Enemies/shark/shark-removebg-preview (1).png" id="1_s6fl2"]
+[ext_resource type="Texture2D" uid="uid://b4opd8islnm3n" path="res://Scenes/Enemies/shark/shark-removebg-preview (2).png" id="2_afkcj"]
+[ext_resource type="Texture2D" uid="uid://drcdosnsajk4j" path="res://Scenes/Enemies/shark/shark-removebg-preview (3).png" id="3_dotiw"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ro6jh"]
 size = Vector2(89, 15)

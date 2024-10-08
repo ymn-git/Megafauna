@@ -1,10 +1,10 @@
 [gd_scene load_steps=3 format=3 uid="uid://ycitmgy4olxo"]
 
-[ext_resource type="Script" path="res://juego/scripts/hud.gd" id="1_73kc6"]
-[ext_resource type="FontFile" uid="uid://cv5hlxcelgkow" path="res://juego/backgrounds/brackeys_platformer_assets/fonts/PixelOperator8.ttf" id="2_s3wh2"]
+[ext_resource type="Script" path="res://Scenes/fondo/hud.gd" id="1_0tkde"]
+[ext_resource type="FontFile" uid="uid://cv5hlxcelgkow" path="res://Scenes/brackeys_platformer_assets/fonts/PixelOperator8.ttf" id="2_s3wh2"]
 
 [node name="HUD" type="CanvasLayer"]
-script = ExtResource("1_73kc6")
+script = ExtResource("1_0tkde")
 
 [node name="Message" type="Label" parent="."]
 texture_filter = 1

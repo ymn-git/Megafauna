@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs4nnqex6mrjn"
-path="res://.godot/imported/Designer__9_-removebg-preview.png-acb83ce729a5acc9681d2bc1535f9e0f.ctex"
+path="res://.godot/imported/Designer__9_-removebg-preview.png-6b9e6908f11f321dc8bad5f9215990ae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://juego/Scenes/Player/Designer__9_-removebg-preview.png"
-dest_files=["res://.godot/imported/Designer__9_-removebg-preview.png-acb83ce729a5acc9681d2bc1535f9e0f.ctex"]
+source_file="res://Scenes/Player/Designer__9_-removebg-preview.png"
+dest_files=["res://.godot/imported/Designer__9_-removebg-preview.png-6b9e6908f11f321dc8bad5f9215990ae.ctex"]
 
 [params]
 

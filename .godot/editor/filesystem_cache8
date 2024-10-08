@@ -1,0 +1,70 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1728424404
+game_controller.gd::GDScript::-1::1727748546::0::1::::<>Node<>::
+::res://backgrounds/::1727820119
+bbbb.jpg::CompressedTexture2D::6535025289209474093::1726608280::1727817137::1::::<><>::
+cielo.jpg::CompressedTexture2D::7108469519896716539::1724028406::1727817137::1::::<><>::
+cuevafondo.jpeg::CompressedTexture2D::484313188475095421::1724095774::1727817137::1::::<><>::
+dwd.jpg::CompressedTexture2D::1742499643198369836::1726608119::1727817137::1::::<><>::
+sunsett.jpg::CompressedTexture2D::3133538011934436773::1724269610::1727817137::1::::<><>::
+::res://Scenes/::1728403131
+::res://Scenes/brackeys_platformer_assets/::1724013587
+LICENSE & CREDITS.txt::TextFile::-1::1724013587::0::1::::<><>::
+::res://Scenes/brackeys_platformer_assets/fonts/::1727820119
+PixelOperator8-Bold.ttf::FontFile::3422823530640887727::1724013587::1727820119::1::::<><>::
+PixelOperator8.ttf::FontFile::6309184290412345978::1724013587::1727820119::1::::<><>::
+::res://Scenes/brackeys_platformer_assets/music/::1727820119
+time_for_adventure.mp3::AudioStreamMP3::9212884341159424664::1724013587::1727820119::1::::<><>::
+::res://Scenes/brackeys_platformer_assets/sounds/::1727820119
+coin.wav::AudioStreamWAV::8283541830013503231::1724013587::1727820119::1::::<><>::
+explosion.wav::AudioStreamWAV::5172040847014057199::1724013587::1727820119::1::::<><>::
+hurt.wav::AudioStreamWAV::1770810986791080897::1724013587::1727820119::1::::<><>::
+jump.wav::AudioStreamWAV::255736362992958109::1724013587::1727820119::1::::<><>::
+power_up.wav::AudioStreamWAV::1184693602790977028::1724013587::1727820119::1::::<><>::
+tap.wav::AudioStreamWAV::8379050905592313834::1724013587::1727820119::1::::<><>::
+::res://Scenes/brackeys_platformer_assets/sprites/::1727820119
+coin.png::CompressedTexture2D::8507780308323309569::1724013587::1727820119::1::::<><>::
+fruit.png::CompressedTexture2D::7184347687032363627::1724013587::1727820119::1::::<><>::
+knight.png::CompressedTexture2D::6344035698524418068::1724013587::1727820119::1::::<><>::
+platforms.png::CompressedTexture2D::6747428904993001925::1724013587::1727820119::1::::<><>::
+slime_green.png::CompressedTexture2D::1383467579483293273::1724013587::1727820119::1::::<><>::
+slime_purple.png::CompressedTexture2D::6155394916033466376::1724013587::1727820119::1::::<><>::
+world_tileset.png::CompressedTexture2D::6495547796208907943::1724013587::1727820119::1::::<><>::
+::res://Scenes/Enemies/::1728424404
+instructions.tscn::PackedScene::8026647866025709920::1728424404::0::1::::<><>::res://scripts/instructions.gd<>uid://c8jnpplaioy00::::res://backgrounds/cielo.jpg<>uid://bo1bnyn68uegd::::res://Scenes/brackeys_platformer_assets/fonts/PixelOperator8-Bold.ttf<>uid://5fsm4cyb2v4s::::res://Scenes/Player/Designer__7_-removebg-preview.png<>uid://i4q8ny6lp3jr::::res://Scenes/Instructions/teclado_imagen-removebg-preview.png<>uid://d370ako6bfqyl::::res://Scenes/Player/Designer__8_-removebg-preview.png<>uid://bs4nnqex6mrjn::::res://Scenes/Player/Designer__9_-removebg-preview.png
+killzone.tscn::PackedScene::2950479511534973870::1727820184::0::1::::<><>::res://scripts/killzone.gd
+plataforma.tscn::PackedScene::4859303632488769111::1727820247::0::1::::<><>::uid://c3erfyrbiw1gb::::res://Scenes/brackeys_platformer_assets/sprites/platforms.png
+water.tscn::PackedScene::5480740473713026963::1727820202::0::1::::<><>::res://scripts/water.gd
+::res://Scenes/Enemies/shark/::1728423888
+shark-removebg-preview (1).png::CompressedTexture2D::2591354833518386783::1724031589::1727817137::1::::<><>::
+shark-removebg-preview (2).png::CompressedTexture2D::4451716296488141901::1724031589::1727817137::1::::<><>::
+shark-removebg-preview (3).png::CompressedTexture2D::8356809266847905107::1724031589::1727817137::1::::<><>::
+shark-removebg-preview.png::CompressedTexture2D::6145856321007902111::1724030006::1727817137::1::::<><>::
+shark.tscn::PackedScene::1180707363747522681::1726611495::0::1::::<><>::uid://bc6jiailvx8k6::::res://juego/Scenes/Enemies/shark/shark-removebg-preview (1).png<>uid://b4opd8islnm3n::::res://juego/Scenes/Enemies/shark/shark-removebg-preview (2).png<>uid://drcdosnsajk4j::::res://juego/Scenes/Enemies/shark/shark-removebg-preview (3).png
+tiburon.tscn::PackedScene::4778528299912201396::1728423888::0::1::::<><>::res://scripts/tiburon.gd<>uid://bc6jiailvx8k6::::res://Scenes/Enemies/shark/shark-removebg-preview (1).png<>uid://b4opd8islnm3n::::res://Scenes/Enemies/shark/shark-removebg-preview (2).png<>uid://drcdosnsajk4j::::res://Scenes/Enemies/shark/shark-removebg-preview (3).png
+::res://Scenes/fondo/::1728424404
+hud.gd::GDScript::-1::1728424404::0::1::::<>CanvasLayer<>::
+hud.tscn::PackedScene::1689181309526017416::1728423888::0::1::::<><>::res://Scenes/fondo/hud.gd<>uid://cv5hlxcelgkow::::res://Scenes/brackeys_platformer_assets/fonts/PixelOperator8.ttf
+::res://Scenes/Instructions/::1728424404
+teclado_imagen-removebg-preview.png::CompressedTexture2D::622408828357795515::1727219375::1727817137::1::::<><>::
+::res://Scenes/Niveles/::1728423890
+miramar2fc.tscn::PackedScene::5436421379805530363::1728423890::0::1::::<><>::res://scripts/miramar (2).gd<>uid://cysqyualyagff::::res://Scenes/brackeys_platformer_assets/sprites/world_tileset.png<>uid://c8jnpplaioy00::::res://backgrounds/cielo.jpg<>uid://g5utj8iy86fp::::res://backgrounds/cuevafondo.jpeg<>uid://bkv56byay0ac0::::res://backgrounds/sunsett.jpg<>uid://bm7om7o2vw4vo::::res://Scenes/Player/player.tscn<>uid://dwhrk3e0ky4qh::::res://Scenes/Player/light.png<>res://scripts/PointLight2D.gd<>uid://cac0wsmrb3nwe::::res://Scenes/Enemies/shark/tiburon.tscn<>uid://bibh74iycnhte::::res://Scenes/Enemies/killzone.tscn<>uid://cbh5ayeouri6r::::res://Scenes/Enemies/plataforma.tscn<>uid://ckc583b2xk27h::::res://Scenes/Enemies/water.tscn
+miramar3.tscn::PackedScene::2907862744710462784::1727820119::0::1::::<><>::res://scripts/miramar.gd<>uid://cysqyualyagff::::res://Scenes/brackeys_platformer_assets/sprites/world_tileset.png<>uid://c8jnpplaioy00::::res://backgrounds/cielo.jpg<>uid://g5utj8iy86fp::::res://backgrounds/cuevafondo.jpeg<>uid://bkv56byay0ac0::::res://backgrounds/sunsett.jpg<>uid://bm7om7o2vw4vo::::res://Scenes/Player/player.tscn<>uid://dwhrk3e0ky4qh::::res://Scenes/Player/light.png<>res://scripts/PointLight2D.gd<>uid://cac0wsmrb3nwe::::res://Scenes/Enemies/shark/tiburon.tscn<>uid://bibh74iycnhte::::res://Scenes/Enemies/killzone.tscn<>uid://cbh5ayeouri6r::::res://Scenes/Enemies/plataforma.tscn<>uid://ckc583b2xk27h::::res://Scenes/Enemies/water.tscn
+miramar.tscn::PackedScene::5077306267403741455::1728423888::0::1::::<><>::res://scripts/miramar.gd<>uid://y3cykak8sfm7::::res://backgrounds/dwd.jpg<>uid://cysqyualyagff::::res://Scenes/brackeys_platformer_assets/sprites/world_tileset.png<>uid://c8jnpplaioy00::::res://backgrounds/cielo.jpg<>uid://g5utj8iy86fp::::res://backgrounds/cuevafondo.jpeg<>uid://bkv56byay0ac0::::res://backgrounds/sunsett.jpg<>uid://bm7om7o2vw4vo::::res://Scenes/Player/player.tscn<>uid://dwhrk3e0ky4qh::::res://Scenes/Player/light.png<>res://scripts/PointLight2D.gd<>uid://cac0wsmrb3nwe::::res://Scenes/Enemies/shark/tiburon.tscn<>uid://bibh74iycnhte::::res://Scenes/Enemies/killzone.tscn<>uid://cbh5ayeouri6r::::res://Scenes/Enemies/plataforma.tscn<>uid://ckc583b2xk27h::::res://Scenes/Enemies/water.tscn
+::res://Scenes/Player/::1727820119
+Designer__7_-removebg-preview.png::CompressedTexture2D::2117103060667561512::1724013876::1727817137::1::::<><>::
+Designer__8_-removebg-preview.png::CompressedTexture2D::9192128234164097939::1724013888::1727817137::1::::<><>::
+Designer__9_-removebg-preview.png::CompressedTexture2D::3710500207911897907::1724013895::1727817137::1::::<><>::
+light.png::CompressedTexture2D::8718918780193760923::1724345219::1727817137::1::::<><>::
+player.tscn::PackedScene::3295620066535176620::1727820119::0::1::::<><>::uid://5fsm4cyb2v4s::::res://Scenes/Player/Designer__7_-removebg-preview.png<>res://scripts/player.gd<>uid://d370ako6bfqyl::::res://Scenes/Player/Designer__8_-removebg-preview.png<>uid://bs4nnqex6mrjn::::res://Scenes/Player/Designer__9_-removebg-preview.png<>uid://cv5hlxcelgkow::::res://Scenes/brackeys_platformer_assets/fonts/PixelOperator8.ttf
+::res://scripts/::1728424404
+AnimationPlayer.gd::GDScript::-1::1724347050::0::1::::<>RefCounted<>::
+hud.gd::GDScript::-1::1727748546::0::1::::<>CanvasLayer<>::
+instructions.gd::GDScript::-1::1727820855::0::1::::<>CanvasLayer<>::
+killzone.gd::GDScript::-1::1727748458::0::1::::<>Area2D<>::
+miramar (2).gd::GDScript::-1::1727817642::0::1::::<>Node<>::
+miramar.gd::GDScript::-1::1727820942::0::1::::<>Node<>::
+player.gd::GDScript::-1::1727748546::0::1::::<>CharacterBody2D<>::
+PointLight2D.gd::GDScript::-1::1724345872::0::1::::<>PointLight2D<>::
+tiburon.gd::GDScript::-1::1726007029::0::1::::<>AnimatableBody2D<>::
+water.gd::GDScript::-1::1727747478::0::1::::<>Area2D<>::
