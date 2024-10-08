@@ -1,8 +1,1 @@
-res://Scenes/Niveles/miramar.tscn
 res://Scenes/fondo/hud.tscn
-res://Scenes/Instructions/instructions.tscn
-res://Scenes/Enemies/shark/tiburon.tscn
-res://Scenes/Niveles/miramar2fc.tscn
-res://Scenes/Niveles/miramar3.tscn
-res://scripts/hud.gd
-res://game_controller.gd
