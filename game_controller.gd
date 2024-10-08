@@ -12,7 +12,7 @@ func _process(delta):
 func lost_life():
 	playerLife-=1
 	if playerLife==0:
-		var hud = load("res://juego/Scenes/fondo/hud.tscn").instantiate()
+		var hud = load("res://Scenes/fondo/hud.tscn").instantiate()
 		get_tree().root.add_child(hud)
 		get_tree().current_scene = hud
 		
